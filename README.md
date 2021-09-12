@@ -10,3 +10,4 @@ IOT applications to control the relay from the smartphone
 through WiFi. And instead of pushbuttons, you can also
 connect manual switches or touch sensors to control the
 home appliances
+-was completed with a group of students
